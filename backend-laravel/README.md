@@ -4,7 +4,7 @@ Back End My Note Menggunakan Framework Laravel
 </b></p>
 
 ## Instalasi
-- atau clone : git clone https://github.com/rahmathidayat9/laraschool
+- atau clone : git clone  https://github.com/ahmadfajarmaulana/my-note.git
 
 ## Setup
 - buka direktori project backend ini di terminal.
