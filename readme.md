@@ -1,4 +1,4 @@
-## BACKEND MY-NOTE
+## MY-NOTE
 <hr>
 
 ## Instalasi
